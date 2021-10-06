@@ -12,7 +12,7 @@ setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
     version="0.0.2",
     author=USER_NAME,
-    author_email="sunny.c17hawke@gmail.com",
+    author_email="rukhsar101095@gmail.com",
     description="its an implimentation of Perceptron",
     long_description=long_description,
     long_description_content_type="text/markdown",
